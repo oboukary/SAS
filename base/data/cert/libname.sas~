@@ -1,4 +1,4 @@
-%let path=/folders/myfolders/base/data;
+%let path=/folders/myfolders/base/data/cert;
 %macro setdelim;
    %global delim;
    %if %index(&path,%str(/)) %then %let delim=%str(/);

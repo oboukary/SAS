@@ -22,3 +22,29 @@
 [I 20:25:40.296 LabApp] Adapting to protocol v5.1 for kernel a232ffdc-cc33-4306-86e0-6ff18d85e065
 [I 20:25:40.315 LabApp] Adapting to protocol v5.1 for kernel a232ffdc-cc33-4306-86e0-6ff18d85e065
 [I 20:27:39.018 LabApp] Starting buffering for a232ffdc-cc33-4306-86e0-6ff18d85e065:8dd34a10-d277-46b6-8163-7d4cf72194b3
+[I 21:04:36.302 LabApp] 302 GET /jupyter/ (127.0.0.1) 1.30ms
+[I 21:04:37.205 LabApp] Node v8.9.4
+    
+[I 21:04:37.267 LabApp] Build is up to date
+[W 21:04:37.426 LabApp] 404 GET /jupyter/api/contents/data/cert?1580331877323 (127.0.0.1): No such file or directory: data/cert
+[W 21:04:37.428 LabApp] No such file or directory: data/cert
+[W 21:04:37.429 LabApp] 404 GET /jupyter/api/contents/data/cert?1580331877323 (127.0.0.1) 5.35ms referer=http://localhost:10080/jupyter/lab?
+[W 21:04:37.444 LabApp] 404 GET /jupyter/api/contents/Untitled.ipynb?content=0&1580331877325 (127.0.0.1): No such file or directory: Untitled.ipynb
+[W 21:04:37.445 LabApp] No such file or directory: Untitled.ipynb
+[W 21:04:37.446 LabApp] 404 GET /jupyter/api/contents/Untitled.ipynb?content=0&1580331877325 (127.0.0.1) 5.38ms referer=http://localhost:10080/jupyter/lab?
+[I 21:04:39.240 LabApp] Creating new notebook in /
+[I 21:04:39.406 LabApp] Adapting to protocol v5.1 for kernel a232ffdc-cc33-4306-86e0-6ff18d85e065
+[I 21:04:46.686 LabApp] Adapting to protocol v5.1 for kernel a232ffdc-cc33-4306-86e0-6ff18d85e065
+[I 21:06:39.382 LabApp] Saving file at /Untitled.ipynb
+[I 21:08:39.418 LabApp] Saving file at /Untitled.ipynb
+[I 21:10:39.452 LabApp] Saving file at /chapitre1.ipynb
+[I 21:12:39.489 LabApp] Saving file at /chapitre1.ipynb
+[I 21:18:40.173 LabApp] Saving file at /chapitre1.ipynb
+[I 21:20:41.156 LabApp] Saving file at /chapitre1.ipynb
+[I 21:28:43.167 LabApp] Saving file at /chapitre1.ipynb
+[I 21:30:43.237 LabApp] Saving file at /chapitre1.ipynb
+[I 21:31:39.846 LabApp] Saving file at /chapitre1.ipynb
+[I 21:33:39.895 LabApp] Saving file at /chapitre1.ipynb
+[I 21:35:39.936 LabApp] Saving file at /chapitre1.ipynb
+[I 21:43:40.158 LabApp] Saving file at /chapitre1.ipynb
+[I 21:45:40.196 LabApp] Saving file at /chapitre1.ipynb
